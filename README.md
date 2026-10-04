@@ -4,9 +4,6 @@ End-to-end analysis of 1,000 patient records exploring how Gene X and Gene Y exp
 
 **Workflow:** Excel (data prep) → MySQL (validation & EDA) → Excel (PivotTables) → Power BI (dashboard)
 
-![Power BI Dashboard]([dashboard/Dashboard.png](https://github.com/Pramatha2002/Gene-Expression-And-Disease-Relationship-Analysis/blob/main/Dashboard.png
-))
-
 ## Dataset
 Public dataset of 1,000 patients: 962 Healthy, 18 Disease A, 20 Disease B. Coded variables were kept and readable `_Label` columns were added.
 
@@ -33,6 +30,4 @@ Public dataset of 1,000 patients: 962 Healthy, 18 Disease A, 20 Disease B. Coded
 - Both genes show higher average expression in disease groups than in Healthy.
 - Disease B has the highest observed expression for both genes.
 - Strong patterns were observed between smoking status, disease status and treatment response.
-
-📄 [Project Report ]([report/Gene_Expression_Analysis_Report.pdf](https://github.com/Pramatha2002/Gene-Expression-And-Disease-Relationship-Analysis/blob/main/Project%20Report.pdf)) 
 
